@@ -14,7 +14,7 @@ In this project i will build a machine learning model cabable of predicting the 
 - Mean Squared Error (MSE)
 - Mean Absolute Error (MAE)
 # The Best Algorithm
-The best model in this project was lasso model. I used lasso for regularization, i applied with this model polynomial features and scaling.
+The best model in this project was lasso model. I used lasso for regularization, i applied with this model polynomial features and data scaling.
 #### The model evaluation:
 - Training Score:  0.9999991086809153
 - Testing Score:  0.9999990934090051
